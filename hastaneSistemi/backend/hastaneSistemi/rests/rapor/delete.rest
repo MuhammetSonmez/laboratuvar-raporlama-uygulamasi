@@ -1,0 +1,1 @@
+DELETE http://localhost:8080/api/raporlar/1234567 HTTP/1.1

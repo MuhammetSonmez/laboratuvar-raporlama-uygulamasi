@@ -1,0 +1,14 @@
+POST http://localhost:8080/api/raporlar HTTP/1.1
+Content-Type: application/json
+
+{
+  "dosyaNumarasi": "12345",
+  "hastaAdi": "Ahmet",
+  "hastaSoyadi": "Yılmaz",
+  "hastaTc": "12345678901",
+  "taniBasligi": "Örnek Tanı",
+  "taniDetaylari": "Örnek tanı detayları",
+  "verilmeTarihi": "2024-06-07",
+  "fotografUrl": "iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhejP3Xr29JlueHxfHeXH9v5k1TWaa7TJuZ7q4x3T0Dcjg0DwIk/R0CpFc9SYD+AUFvAgRBAN8kERAgASQFURiyOeJwTHeX68qs9Jk3r7/He6vP57sizjlZPUMp9i9+4VasWLFixQqzY+89sbT+1uXFxXm75Jrg0uj3NzE52SYnja34C1MuLpJ2SdQVnHai573h959gzHD1iS95vwXxP2AGaLzkt/AbWcV3cXmRci8hwGQTJ6Hf8OQEbgeW1kvClX8gMB/52yTeyTbVcZt8wSXeCTLOTE22H/3uD9rSwlSbvDxviwuLbWVpuU2TYWp6kvACZYHFctu52Nrk1FSQTU/PgG+inZyetpNz+A1yy7OMs7PTNjs/29ZW19r83FxwhSyuy4vLdnpy2j797FOgp9oH3/ugXRA3NTmV9LOLM+Jbm5yxTuAjTZyX0HdyfNrOaa+pmZn25Mnz9t/8xX/bDo5O2vziQpuD9snpaWifAtd0e/nyRTs9PaFu1Ak6aPbUYYo6i/ACPIGdnkr5ljOD3/pNQsvW1hb5z9rc7EybgZYz/Kvra21hfh472xaXFtvC7DyUXnQeWQDtJn+5bD95PhF5a6HbNtGI3/Y7P6cuvU3Pzs4IFx+nqIc4bSdp04y854Rt/zNgzWO8ELriO4G3bWKm7e3vt9dvtto89V/Anp5R95npNkt7zM3NXNXZsuwD6RsTU+3w8JAyzhu/1On0nPaFx3fv3YmsffPN1/D+a+ieaOu3bkU2JFHaL2i70IBMiGua8mwLeW19+GsH+wft+PikTSBjtqtMGnKOp9dXa/2VO4PC6MjJgr9pIs/hsgHhkusGXCLjxAZ95QlET64E/ys+2YkqfFjCoZX6aCqvfaw",
+  "hastaneKimlikNumarasi":"1234567"
+}

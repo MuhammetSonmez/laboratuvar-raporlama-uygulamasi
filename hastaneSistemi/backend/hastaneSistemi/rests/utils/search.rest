@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/raporlar/search?hastaAdi=mami&hastaSoyadi=mami&hastaTc=123&laborantAdi=mami&laborantSoyadi=mami
+Host: localhost:8080

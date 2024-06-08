@@ -1,0 +1,10 @@
+POST /api/register HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+
+{
+  "username": "user1",
+  "password": "user1",
+  "tcKimlikNumarasi":"1234578901"
+}
+

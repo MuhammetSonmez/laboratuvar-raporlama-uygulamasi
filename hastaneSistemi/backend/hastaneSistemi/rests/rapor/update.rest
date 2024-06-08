@@ -1,0 +1,15 @@
+PUT /api/raporlar/updateByDosyaNumarasi/12345 HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+Content-Length: 254
+
+{
+  "hastaAdi": "mehmet",
+  "hastaSoyadi": "Yılmaz",
+  "hastaTc": "12345678901",
+  "taniBasligi": "Örnek Tanı",
+  "taniDetaylari": "Örnek tanı detayları",
+  "verilmeTarihi": "2024-06-07T00:00:00.000+00:00",
+  "fotografUrl": "http://example.com/photo.jpg",
+  "hastaneKimlikNumarasi": 1234567
+}
