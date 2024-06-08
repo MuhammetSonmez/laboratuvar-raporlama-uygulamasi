@@ -4,10 +4,10 @@ Bu proje, hastane raporlama işlemlerini kolaylaştırmak için geliştirilmiş 
 
 ## Özellikler
 
-- **React**, **Mantine**, **Redux Toolkit (RTK) Query** kullanarak geliştirilmiş zengin bir ön-yüz (front-end).
-- Kapsamlı **birim testleri** içermesi.
+- **React**, **Mantine**, **Redux Toolkit (RTK) Query** kullanarak geliştirilmiş bir ön-yüz (front-end).
+- **birim testleri** içermesi.
 - Kullanıcıların **kullanıcı adı/parola** ile giriş yapabilmesi.
-- Güçlü bir **yetkilendirme mekanizması** içermesi.
+- Bir **yetkilendirme mekanizması** içermesi.
 
 ## Backend Kurulumu
 
