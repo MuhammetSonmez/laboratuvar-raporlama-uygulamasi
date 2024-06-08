@@ -23,7 +23,7 @@ Backend, **Java 17** kullanılarak Java Spring Boot ile geliştirilmiştir ve JP
 1. Projeyi klonlayın:
 
     ```bash
-    git clone [proje_linki]
+    git clone https://github.com/MuhammetSonmez/laboratuvar-raporlama-uygulamasi
     ```
 
 2. Maven bağımlılıklarını yükleyin:
