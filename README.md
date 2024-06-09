@@ -75,6 +75,12 @@ Frontend, React mantığına uygun olarak **Redux Toolkit Query** kullanılarak 
 
 Uygulamayı başlattıktan sonra, tarayıcınızda `localhost:3000` adresine giderek uygulamayı kullanmaya başlayabilirsiniz.
 
+# Önemli not
+admin yetkileri için username ve password bilgileri admin, admin olan bir kullanıcı eklenmiştir. login olurken kullanılabilir.
 
+uygulamaya kayıt olurken kullanıcı tipiniz ADMIN değil USER olacaktır dolayısıyla silme işlemleri için yetkiniz olmayacaktır.
+
+ekstra ayar yapmak için config dosyasını inceleyiniz.
 ## Not:
 H2 veritabanı kullanılmıştır ve rapor oluşturmadan önce laborant oluşturunuz.
+
